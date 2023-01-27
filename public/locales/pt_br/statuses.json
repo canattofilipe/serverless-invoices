@@ -1,9 +1,9 @@
 {
   "statuses": {
     "draft": "rascunho",
-    "booked": "registrada",
-    "sent": "enviada",
-    "paid": "paga",
-    "cancelled": "cancelada"
+    "booked": "registrado",
+    "sent": "enviado",
+    "paid": "pago",
+    "cancelled": "cancelado"
   }
 }
