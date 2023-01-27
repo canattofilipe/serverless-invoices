@@ -1,7 +1,7 @@
 {
-  "invoice_title": "Fatura ",
+  "invoice_title": "Orçamento ",
   "invoice_number": "No.",
-  "issued_at": "Emitida em: ",
+  "issued_at": "Emitido em: ",
   "due_at": "Vence em:",
   "late_fee": "Taxa de atraso:",
   "add_late_fee": "Adicionar taxa de atraso",
